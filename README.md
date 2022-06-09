@@ -29,4 +29,3 @@ This repository demonstrates sample issues in Shell configuration raised by Deep
 ### Documentation
 
 [https://deepsource.io/docs/analyzer/shell.html](https://deepsource.io/docs/analyzer/shell.html)
-
